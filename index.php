@@ -27,7 +27,7 @@ require_once 'includes/head.php';
             <section id="projects">  
                 <a class="project-link" target="_blank" href="https://codepen.io/abdallah_/details/vYZbEex">
                     <div class="project-tile">
-                        <img src="img/trib-img5.png" alt="Tribute Page">
+                        <img src="../img/trib-img5.PNG" alt="Tribute Page">
                         <div class="detail-container">
                             <p><strong style="display:block;">Tribute Page</strong>
                                 It's with Responsive Web Designing
