@@ -1,0 +1,100 @@
+
+
+body{
+    padding:50px;
+    //transform: scale(1.5);
+    //transform-origin: top left;
+}
+#headerWrapper{
+    position:relative;
+    padding:0;
+    margin: 0;
+    overflow:hidden;
+    height: 700px;
+    background-image: url('../images/headerlogo/background.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 700px;
+    background-attachment: fixed;
+    background-position: top center;
+}
+
+.img-thumb{
+    width: 15px;
+    height: 20px;
+    margin: 2px;
+}
+.img-thumbnail{
+    height: 250px;
+    width: 250px;
+}
+#footer{
+    margin-top: 50px;
+    
+}
+img.details{
+    width: 70%;
+    margin: 30px auto;
+}
+.details:hover {
+      transform: scale(1.05);
+      box-shadow: 0 15px 25px 0 rgba(0, 0, 0, 0.2), 0 18px 39px 0 rgba(0, 0, 0, 0.19);
+    }
+#availableNum{
+    margin-left: 100px;
+}
+#formQuan{
+    margin-left: 10px;
+}
+#quantTitle{
+        margin-left: -27px;
+
+}
+#sizeTitle{
+    margin-left: -19px;
+}
+.table-auto{
+    width:auto;
+    margin: 0 auto;
+}
+// testing for js code
+p {
+  font-family: 'helvetica neue', helvetica, sans-serif;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  text-align: center;
+  border: 2px solid rgba(0,0,200,0.6);
+  background: rgba(0,0,200,0.3);
+  color: rgba(0,0,200,0.6);
+  box-shadow: 1px 1px 2px rgba(0,0,200,0.4);
+  border-radius: 10px;
+  padding: 3px 10px;
+  display: inline-block;
+  cursor: pointer;
+}
+.mainbox {
+  /*font-family: 'helvetica neue', helvetica, sans-serif;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  text-align: center;
+  border: 2px solid rgba(0,0,200,0.6);
+  background: rgba(0,0,200,0.3);
+  color: rgba(0,0,200,0.6);
+  box-shadow: 1px 1px 2px rgba(0,0,200,0.4);
+  border-radius: 10px;
+  padding: 3px 10px;
+  display: inline-block;
+    cursor: pointer;*/
+}
+
+.mainbox > #playerID{
+    font-family : 'helvetica neue', helvetica, sans-serif;
+    border : 2px solid rgba(0,0,200,0.6);
+    background-color : rgba(0,0,200,0.3);
+    cursor : pointer;
+}
+
+.mainbox > #playerID:hover{
+    background-color: background;
+    width: 250px;
+    margin-left: 90px;
+}
