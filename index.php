@@ -42,7 +42,7 @@ require_once 'includes/head.php';
                 </a>
                 <a class="project-link" target="_blank" href="https://codepen.io/abdallah_/details/QWgPWmN">
                     <div class="project-tile">
-                        <img src="img/survey-form-img2.png" alt="Survey Form Page">
+                        <img src="../img/survey-form-img2.PNG" alt="Survey Form Page">
                         <div class="detail-container">
                             <p><strong style="display:block;">Survey Form Page</strong>
                                 It's with Responsive Web Designing
@@ -56,7 +56,7 @@ require_once 'includes/head.php';
                 </a>
                 <a class="project-link" target="_blank" href="https://codepen.io/abdallah_/full/gOxbMra">
                     <div class="project-tile">
-                        <img src="img/product-landing-page.png" alt="Product Landing Page">
+                        <img src="../img/product-landing-page.PNG" alt="Product Landing Page">
                         <div class="detail-container">
                             <p><strong style="display:block;">Product Landing Page</strong>
                                 It's with Responsive Web Designing
@@ -70,7 +70,7 @@ require_once 'includes/head.php';
                 </a>
                 <a class="project-link" target="_blank" href="https://codepen.io/abdallah_/full/jOLqpOR">
                     <div class="project-tile">
-                        <img src="img/technical-docu-page2.png" alt="Technical Documentation Page">
+                        <img src="../img/technical-docu-page2.PNG" alt="Technical Documentation Page">
                         <div class="detail-container">
                             <p><strong style="display:block;">Technical Documentation Page</strong>
                                 It's with Responsive Web Designing
@@ -84,7 +84,7 @@ require_once 'includes/head.php';
                 </a>
                 <a class="project-link" target="_blank" href="https://codepen.io/abdallah_/pen/vYZbEex">
                     <div class="project-tile">
-                        <img src="img/img-gallery.png" alt="Simple Image Gallery ">
+                        <img src="../img/img-gallery.PNG" alt="Simple Image Gallery ">
                         <div class="detail-container">
                             <p><strong style="display:block;">Simple Image Gallery</strong>
                                 It's with Responsive Web Designing
@@ -98,7 +98,7 @@ require_once 'includes/head.php';
                 </a>
                 <a class="project-link" target="_blank" href="https://codepen.io/abdallah_/pen/vYZbEex">
                     <div class="project-tile">
-                        <img src="img/lab_online2.png" alt="Online Books Page">
+                        <img src="../img/lab_online2.PNG" alt="Online Books Page">
                         <div class="detail-container">
                             <p><strong style="display:block;">Online Books Page</strong>
                                 It's with Responsive Web Designing
